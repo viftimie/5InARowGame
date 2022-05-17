@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="5dip" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the connect key" />
+
+    <EditText
+        android:id="@+id/bt_client_insert_connect_key_etxt"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:hint="Ex: 1921"
+        android:inputType="number"
+        android:maxLength="4" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
