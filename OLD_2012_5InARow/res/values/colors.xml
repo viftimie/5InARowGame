@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_50_transparent">#32FFFFFF</color>
+    <color name="white_85_transparent">#55FFFFFF</color>
+    <color name="blue_as_facebook">#3B5998</color>
+    
+    <color name="blue_universal">#4790c9</color>
+    <color name="white">#FFFFFF</color>
+</resources>

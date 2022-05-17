@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">@color/blue_as_facebook</item>
+        <item name="android:background">@drawable/dialog_background</item>
+    </style>
+
+</resources>
